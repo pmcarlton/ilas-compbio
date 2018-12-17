@@ -2,7 +2,7 @@
 
 from Bio import SeqIO,Entrez
 from matplotlib import pyplot as plt
-%matplotlib inline
+# %matplotlib inline (uncomment if you want inline graphics in a Jupyter notebook)
 
 Entrez.email="pcarlton@icems.kyoto-u.ac.jp"
 
